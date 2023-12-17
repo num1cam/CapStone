@@ -18,3 +18,10 @@ Challenges: The project presented challenges, potentially in data analysis, inte
 Conclusion: Our analysis provided a nuanced understanding of sales volumes and market dynamics, essential for making informed investment decisions. We focused on identifying current market hotspots while also considering areas showing sustainable growth potential.
 
 This project is a testament to the power of combining data analysis with market insight, harnessing the strength of both to guide strategic investment decisions in the dynamic world of real estate.
+
+The completed Tableau presentation for this project can be found on my Tableau Public profile by visiting the following link: 
+https://public.tableau.com/app/profile/drew.pearson/viz/Capstone2_0_17025289486770/ATDSCDrewP
+
+Thanks !
+Drew P
+
